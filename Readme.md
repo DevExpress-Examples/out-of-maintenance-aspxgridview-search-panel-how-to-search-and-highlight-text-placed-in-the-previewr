@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - Search Panel - How to search and highlight text placed in the PreviewRow
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t244114/)**
+<!-- run online end -->
 
 
 <p>The Search Panel can find text only from visible grid columns. So, it is necessary to create a column with a field that contains a PreviewRow. It is possible to hide it using the CSS styles:</p>
